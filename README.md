@@ -3,7 +3,9 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 사용자 경험을 고민하는 개발자 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 저는 팀원들과 소통하며 문제를 함께 해결하는 과정을 가장 중요하게 생각하는 개발자입니다. </li>프로젝트에서 기능 구현뿐 아니라 오류 발생 시 원인을 명확히 설명하고, 팀원들과 논의하며 더 나은 방향을 찾아가는 경험을 쌓아왔습니다. </li>또한 새로운 기술과 도구에 대한 호기심이 많아 스스로 학습한 내용을 실제 서비스 개선에 적용한 경험도 있습니다. </li>지속적인 학습과 협업을 통해 팀의 속도를 높이는 개발자로 성장하고 싶습니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 저는 팀원들과 소통하며 문제를 함께 해결하는 과정을 가장 중요하게 생각하는 개발자입니다. 
+    <br/>
+    </li>프로젝트에서 기능 구현뿐 아니라 오류 발생 시 원인을 명확히 설명하고, 팀원들과 논의하며 더 나은 방향을 찾아가는 경험을 쌓아왔습니다. <br/> </li>또한 새로운 기술과 도구에 대한 호기심이 많아 스스로 학습한 내용을 실제 서비스 개선에 적용한 경험도 있습니다. <br/> </li>지속적인 학습과 협업을 통해 팀의 속도를 높이는 개발자로 성장하고 싶습니다. </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -35,7 +37,8 @@
         <div align= "center"> 
             <img src="https://github-readme-stats.vercel.app/api?username=zzeondev&show_icons=true&theme=transparent"
         /> 
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzeondev&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
+            <br/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzeondev&show_icons=true&theme=transparent"
           /> </div> 
     </div>
     
